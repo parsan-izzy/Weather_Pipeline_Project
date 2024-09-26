@@ -1,0 +1,75 @@
+2024-09-26 03:01:24,517 INFO:Starting weather data pipeline for Apeldoorn
+2024-09-26 03:01:24,616 INFO:Fetched data for Apeldoorn
+2024-09-26 03:01:24,616 INFO:Processed weather data for Apeldoorn
+2024-09-26 03:01:24,617 INFO:Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:01:24,626 INFO:Weather data saved to database for Apeldoorn
+2024-09-26 03:02:38,682 INFO:Starting weather data pipeline for Östersund
+2024-09-26 03:02:38,740 INFO:Fetched data for Östersund
+2024-09-26 03:02:38,740 INFO:Processed weather data for Östersund
+2024-09-26 03:02:38,741 INFO:Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:02:38,746 INFO:Weather data saved to database for Östersund
+2024-09-26 03:08:41,701 INFO:Starting weather data pipeline for Arak
+2024-09-26 03:08:41,801 INFO:Fetched data for Arak
+2024-09-26 03:08:41,802 INFO:Processed weather data for Arak
+2024-09-26 03:08:41,803 INFO:Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:08:41,812 INFO:Weather data saved to database for Arak
+2024-09-26 03:09:44,606 INFO:Starting weather data pipeline for malmo
+2024-09-26 03:09:44,676 INFO:Fetched data for malmo
+2024-09-26 03:09:44,676 INFO:Processed weather data for Malmo
+2024-09-26 03:09:44,677 INFO:Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:09:44,689 INFO:Weather data saved to database for Malmo
+2024-09-26 03:20:42,436 INFO: Starting weather data pipeline for & "C:/Users/Min Dator/AppData/Local/Programs/Python/Python311/python.exe" Untitled-1
+2024-09-26 03:20:42,531 ERROR: Failed to fetch data for & "C:/Users/Min Dator/AppData/Local/Programs/Python/Python311/python.exe" Untitled-1: 400 Client Error: Bad Request for url: http://api.openweathermap.org/data/2.5/weather?q=&%20%22C:/Users/Min%20Dator/AppData/Local/Programs/Python/Python311/python.exe%22%20Untitled-1&appid=a177061a76d7bca369b0fd41f88046a3&units=metric
+2024-09-26 03:20:42,531 ERROR: Failed to fetch weather data for & "C:/Users/Min Dator/AppData/Local/Programs/Python/Python311/python.exe" Untitled-1
+2024-09-26 03:20:42,531 INFO: Pipeline finished
+2024-09-26 03:26:14,607 INFO: Pipeline finished
+2024-09-26 03:26:14,706 INFO: Fetched data for Berlin
+2024-09-26 03:26:14,706 INFO: Processed weather data for Berlin
+2024-09-26 03:26:37,844 INFO: Pipeline finished
+2024-09-26 03:26:37,890 INFO: Fetched data for Berlin
+2024-09-26 03:26:37,891 INFO: Processed weather data for Berlin
+2024-09-26 03:27:01,906 INFO: Pipeline finished
+2024-09-26 03:27:01,964 INFO: Fetched data for Berlin
+2024-09-26 03:27:01,964 INFO: Processed weather data for Berlin
+2024-09-26 03:38:27,940 INFO: Starting weather data pipeline for & "C:/Users/Min Dator/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/Min Dator/Desktop/WEATHER 2/WEaTHEr.py"
+2024-09-26 03:38:28,032 ERROR: Failed to fetch data for & "C:/Users/Min Dator/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/Min Dator/Desktop/WEATHER 2/WEaTHEr.py": 400 Client Error: Bad Request for url: http://api.openweathermap.org/data/2.5/weather?q=&%20%22C:/Users/Min%20Dator/AppData/Local/Programs/Python/Python311/python.exe%22%20%22c:/Users/Min%20Dator/Desktop/WEATHER%202/WEaTHEr.py%22&appid=a177061a76d7bca369b0fd41f88046a3&units=metric
+2024-09-26 03:38:28,053 ERROR: Failed to fetch weather data for & "C:/Users/Min Dator/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/Min Dator/Desktop/WEATHER 2/WEaTHEr.py"
+2024-09-26 03:38:28,053 INFO: Pipeline finished
+2024-09-26 03:38:38,369 INFO: Randomly selected city: Arak
+2024-09-26 03:38:38,370 INFO: Starting weather data pipeline for Arak
+2024-09-26 03:38:38,425 INFO: Fetched data for Arak
+2024-09-26 03:38:38,425 INFO: Processed weather data for Arak
+2024-09-26 03:38:38,426 INFO: Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:38:38,435 INFO: Weather data saved to database for Arak
+2024-09-26 03:38:38,435 INFO: Pipeline finished
+2024-09-26 03:38:45,804 INFO: Randomly selected city: New York
+2024-09-26 03:38:45,804 INFO: Starting weather data pipeline for New York
+2024-09-26 03:38:45,858 INFO: Fetched data for New York
+2024-09-26 03:38:45,858 INFO: Processed weather data for New York
+2024-09-26 03:38:45,860 INFO: Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:38:45,868 INFO: Weather data saved to database for New York
+2024-09-26 03:38:45,868 INFO: Pipeline finished
+2024-09-26 03:38:54,193 INFO: Randomly selected city: Arak
+2024-09-26 03:38:54,193 INFO: Starting weather data pipeline for Arak
+2024-09-26 03:38:54,249 INFO: Fetched data for Arak
+2024-09-26 03:38:54,249 INFO: Processed weather data for Arak
+2024-09-26 03:38:54,250 INFO: Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 03:38:54,256 INFO: Weather data saved to database for Arak
+2024-09-26 03:38:54,256 INFO: Pipeline finished
+2024-09-26 03:50:26,243 INFO: Pipeline finished
+2024-09-26 03:50:26,330 INFO: Fetched data for Berlin
+2024-09-26 03:50:26,331 INFO: Processed weather data for Berlin
+2024-09-26 13:35:42,137 INFO: Randomly selected city: Arak
+2024-09-26 13:35:42,137 INFO: Starting weather data pipeline for Arak
+2024-09-26 13:35:42,241 INFO: Fetched data for Arak
+2024-09-26 13:35:42,241 INFO: Processed weather data for Arak
+2024-09-26 13:35:42,242 INFO: Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 13:35:42,251 INFO: Weather data saved to database for Arak
+2024-09-26 13:35:42,251 INFO: Pipeline finished
+2024-09-26 13:46:18,850 INFO: Randomly selected city: New York
+2024-09-26 13:46:18,850 INFO: Starting weather data pipeline for New York
+2024-09-26 13:46:18,956 INFO: Fetched data for New York
+2024-09-26 13:46:18,956 INFO: Processed weather data for New York
+2024-09-26 13:46:18,956 INFO: Saving data to: C:\Users\Min Dator\Desktop\WEATHER 2\weather.db
+2024-09-26 13:46:18,966 INFO: Weather data saved to database for New York
+2024-09-26 13:46:18,967 INFO: Pipeline finished
