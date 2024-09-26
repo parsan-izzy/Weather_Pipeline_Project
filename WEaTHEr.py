@@ -9,7 +9,7 @@ logging.basicConfig(filename='weather_pipeline.log', level=logging.INFO, format=
 
 # Fetch data from the weather API
 def fetch_data(city: str):
-    api_key = "a177061a76d7bca369b0fd41f88046a3"
+    api_key = os.getenv("OPENWEATHER_API_KEY")  # Fetch API key from environment variables
     api_url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
     try:
         response = requests.get(api_url)
